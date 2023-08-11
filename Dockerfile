@@ -1,5 +1,5 @@
 # Definindo a imagem base
-FROM node:lts-stretch
+FROM node:lts-hydrogen
 
 COPY . /app
 
